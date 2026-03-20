@@ -267,21 +267,6 @@ int main() {
 }
 ```
 ---
-## Como compilar e rodar um arquivo `.cpp` pelo terminal
-### Compilação
-> Certifique-se de estar na pasta onde o seu arquivo está armazenado
-```bash
-g++ nome_do_seu_arquivo.cpp -o nome_do_executavel
-                    ou
-c++ nome_do_seu_arquivo.cpp -o nome_do_executavel
-```
-> **Importante**: verifique se você tem o compilador instalado na sua máquina digitando `gcc --version` no seu terminal, caso você não possua ele instalado, assista [Como Instalar e Configurar o GCC no Windows](https://youtu.be/daD-X5AQ7e8?si=NjD4ZmXwdPlokS1S)
-### Execução
-```bash
-./nome_do_executavel
-```
-
----
 
 ## Resumo rápido
 
