@@ -1,4 +1,4 @@
-# Aula 01 — Tipos de Variáveis, `std::cin` e `std::cout` em C++
+# Tópico 01 — Tipos de Variáveis, `std::cin` e `std::cout` em C++
 ---
 
 ##  O que é uma variável?

@@ -11,8 +11,9 @@ Cada pasta corresponde a uma aula e contém um arquivo de revisão com exemplos 
 |------|------|----------|
 | 01 | Tipos de variáveis, `std::cin` e `std::cout` | [Tópico 1](./topico1/topico1.md) |
 | 02 | Condicionais: `if`, `else`, `switch` | [Tópico 2](./topico2/topico2.md) |
+| 03 | Laços de repetição: `for`, `while`, `do while` | [Tópico 3](./topico3/topico3.md) |
 
-> Novas aulas serão adicionadas ao longo do semestre.
+> Novos Tópicos serão adicionados ao longo do semestre.
 
 ---
 

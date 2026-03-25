@@ -1,4 +1,4 @@
-# Aula 02 — Condicionais em C/C++
+# Tópico 02 — Condicionais em C/C++
 ---
 
 ## O que são condicionais?
