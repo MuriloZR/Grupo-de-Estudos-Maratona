@@ -1,7 +1,4 @@
 # Aula 02 — Condicionais em C/C++
-
-> Revisão dos conceitos abordados em aula. Guarde este material como referência!
-
 ---
 
 ## O que são condicionais?
