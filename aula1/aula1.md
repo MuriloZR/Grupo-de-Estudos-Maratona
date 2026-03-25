@@ -287,6 +287,7 @@ int main() {
 
 ## Referências
 
-- [LearnCpp.com](https://www.learncpp.com/)
-- [cppreference.com](https://cppreference.com/)
+- [cppreference.com — Tipos fundamentais](https://en.cppreference.com/w/cpp/language/types)
+- [cppreference.com — std::cout](https://en.cppreference.com/w/cpp/io/cout)
+- [cppreference.com — std::cin](https://en.cppreference.com/w/cpp/io/cin)
 - [cplusplus.com](https://cplusplus.com/)
