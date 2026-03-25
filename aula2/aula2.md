@@ -48,9 +48,9 @@ if (idade >= 18 && temCNH) {
 
 // || : basta uma ser verdadeira
 bool temIngresso = false;
-bool estaNoLista = true;
+bool estaNaLista = true;
 
-if (temIngresso || estaNoLista) {
+if (temIngresso || estaNaLista) {
     std::cout << "Pode entrar." << std::endl;
 }
 
@@ -122,7 +122,7 @@ Se o bloco tiver apenas **uma linha**, as chaves são opcionais. Porém, usá-la
 if (x > 0)
     std::cout << "Positivo" << std::endl;
 
-// Preferível — sempre use chaves:
+// Preferível, sempre use chaves:
 if (x > 0) {
     std::cout << "Positivo" << std::endl;
 }
@@ -240,7 +240,7 @@ if (idade >= 18) {
 }
 ```
 
-> Use o operador ternário com moderação — ele é ótimo para casos simples, mas pode prejudicar a legibilidade quando a lógica é mais complexa.
+> Use o operador ternário com moderação, ele é ótimo para casos simples, mas pode prejudicar a legibilidade quando a lógica é mais complexa.
 
 ---
 
