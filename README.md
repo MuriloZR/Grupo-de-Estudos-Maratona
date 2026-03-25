@@ -10,6 +10,7 @@ Cada pasta corresponde a uma aula e contém um arquivo de revisão com exemplos 
 | Aula | Tema | Material |
 |------|------|----------|
 | 01 | Tipos de variáveis, `std::cin` e `std::cout` | [Ver aula](./aula1/aula1.md) |
+| 02 | Condicionais: `if`, `else`, `switch` | [Ver aula](./aula2/aula2.md) |
 
 > Novas aulas serão adicionadas ao longo do semestre.
 
