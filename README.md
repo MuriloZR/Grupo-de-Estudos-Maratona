@@ -12,8 +12,9 @@ Cada pasta corresponde a uma aula e contém um arquivo de revisão com exemplos 
 | 01 | Tipos de variáveis, `std::cin` e `std::cout` | [Tópico 1](./topico1/topico1.md) |
 | 02 | Condicionais: `if`, `else`, `switch` | [Tópico 2](./topico2/topico2.md) |
 | 03 | Laços de repetição: `for`, `while`, `do while` | [Tópico 3](./topico3/topico3.md) |
+| 04 | Vetores: arrays padrões e `std::vector` | [Tópico 4](./topico4/topico4.md) |
 
-> Novos Tópicos serão adicionados ao longo do semestre.
+> Novos Tópicos serão adicionados ao longo do tempo.
 
 ---
 
@@ -52,4 +53,5 @@ g++ nome_do_seu_arquivo.cpp -o nome_do_executavel
 
 - [cppreference.com](https://en.cppreference.com/) ou [cplusplus.com](https://cplusplus.com/) — documentação completa da linguagem
 - [LearnCpp.com](https://www.learncpp.com/) — tutorial gratuito e completo de C++
+- [Geeks for Geeks](https://www.geeksforgeeks.org/) — algoritmos, conceitos, informações gerais
 - [Compiler Explorer](https://godbolt.org/) — teste código C++ direto no navegador
