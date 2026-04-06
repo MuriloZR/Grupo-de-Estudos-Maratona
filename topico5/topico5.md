@@ -1,6 +1,4 @@
-# Aula 05 — Notação Big O e Complexidade de Algoritmos
-
-> Revisão dos conceitos abordados em aula. Guarde este material como referência!
+# Tópico 05 — Notação Big O e Complexidade de Algoritmos
 
 ---
 
