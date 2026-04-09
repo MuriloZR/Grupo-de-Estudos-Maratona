@@ -17,6 +17,9 @@ Cada pasta corresponde a uma aula e contém um arquivo de revisão com exemplos 
 
 > Novos Tópicos serão adicionados ao longo do tempo.
 
+**Links para exercícios podem ser encontrados [aqui](./Questoes.md)**
+> Os links abrem na aba atual do seu navegador, eu recomendo clilar no link com o botão direito e abrir numa nova aba, pra não ter que ficar voltando para essa paǵina toda hora que quiserem consultar o material novamente
+
 ---
 
 ## Como usar este repositório
