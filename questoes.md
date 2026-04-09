@@ -1,0 +1,7 @@
+[Troco](https://judge.beecrowd.com/pt/problems/view/1018)
+[Sequencia IJ](https://judge.beecrowd.com/pt/problems/view/1095)
+[Resto 2.0](https://judge.beecrowd.com/pt/problems/view/3104)
+[Sequencia S](https://judge.beecrowd.com/pt/problems/view/1155)
+[Preenchimento de Vetor IV](https://judge.beecrowd.com/pt/problems/view/1179)
+[Troca em Vetor I](https://judge.beecrowd.com/pt/problems/view/1175)
+[Selecao em Vetor I](https://judge.beecrowd.com/pt/problems/view/1174)
