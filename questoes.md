@@ -1,4 +1,5 @@
 # Exercícios
+> Os links abrem na aba atual do seu navegador, eu recomendo clilar no link do exercício com o botão direito e abrir numa nova aba, pra não ter que ficar voltando para essa paǵina toda hora que quiser consultar o material novamente
 
 ---
 
