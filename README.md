@@ -9,11 +9,12 @@ Cada pasta corresponde a uma aula e contém um arquivo de revisão com exemplos 
 
 | Tópico | Tema | Material |
 |------|------|----------|
-| 01 | Tipos de variáveis, `std::cin` e `std::cout` | [Tópico 1](./topico1/topico1.md) |
-| 02 | Condicionais: `if`, `else`, `switch` | [Tópico 2](./topico2/topico2.md) |
-| 03 | Laços de repetição: `for`, `while`, `do while` | [Tópico 3](./topico3/topico3.md) |
-| 04 | Vetores: arrays padrões e `std::vector` | [Tópico 4](./topico4/topico4.md) |
-| 05 | Complexidade e notação Big O | [Tópico 5](./topico5/topico5.md) |
+| 01 | Tipos de variáveis, `std::cin` e `std::cout` | [Tópico 1](./topico1.md) |
+| 02 | Condicionais: `if`, `else`, `switch` | [Tópico 2](./topico2.md) |
+| 03 | Laços de repetição: `for`, `while`, `do while` | [Tópico 3](./topico3.md) |
+| 04 | Vetores: arrays padrões e `std::vector` | [Tópico 4](./topico4.md) |
+| 05 | Complexidade e notação Big O | [Tópico 5](./topico5.md) |
+| 06 | Estruturas de Dados: `map`, `set`, `stack` e `queue` | [Tópico 6](./topico6.md) |
 
 > Novos Tópicos serão adicionados ao longo do tempo.
 
