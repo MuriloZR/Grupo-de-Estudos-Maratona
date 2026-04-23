@@ -20,6 +20,7 @@
 - [Onde Está Minha Caneta](https://judge.beecrowd.com/pt/problems/view/2495)
 - [Flores de Fogo](https://judge.beecrowd.com/pt/problems/view/1039)
 - [Missing Number](https://cses.fi/problemset/task/1083)
+- [huaauhahhuahau](https://cp.nextline.com.br/problem/59)
 
 ### Difícil
 - [Resto 2.0](https://judge.beecrowd.com/pt/problems/view/3104)
@@ -39,3 +40,31 @@
 
 ### Difícil
 - [Carteiro](https://judge.beecrowd.com/pt/problems/view/2448)
+
+---
+
+## Pilha(Stack)
+
+### Fácil
+- [Diamantes e Areia](https://judge.beecrowd.com/pt/problems/view/1069)
+
+### Médio
+- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+
+---
+
+## Set
+
+### Fácil
+- [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+- [Primeiro Positivo Faltante](https://cp.nextline.com.br/problem/4)
+
+---
+
+## Map
+
+### Fácil
+- [Football](https://codeforces.com/problemset/problem/43/A)
+
+### Médio
+- [Colheita de Deméter](https://cp.nextline.com.br/problem/69)
